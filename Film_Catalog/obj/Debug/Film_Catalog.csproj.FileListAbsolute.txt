@@ -1,0 +1,6 @@
+C:\Users\Ryanw\Documents\Visual Studio 2015\Projects\Film_Catalog\Film_Catalog\bin\Debug\Film_Catalog.exe.config
+C:\Users\Ryanw\Documents\Visual Studio 2015\Projects\Film_Catalog\Film_Catalog\bin\Debug\Film_Catalog.exe
+C:\Users\Ryanw\Documents\Visual Studio 2015\Projects\Film_Catalog\Film_Catalog\bin\Debug\Film_Catalog.pdb
+C:\Users\Ryanw\Documents\Visual Studio 2015\Projects\Film_Catalog\Film_Catalog\obj\Debug\Film_Catalog.csprojResolveAssemblyReference.cache
+C:\Users\Ryanw\Documents\Visual Studio 2015\Projects\Film_Catalog\Film_Catalog\obj\Debug\Film_Catalog.exe
+C:\Users\Ryanw\Documents\Visual Studio 2015\Projects\Film_Catalog\Film_Catalog\obj\Debug\Film_Catalog.pdb
